@@ -10,7 +10,6 @@ import bg from "./assets/bgImage.svg";
 const App = () => {
   const { authUser } = useContext(AuthContext)
   return (
-    // <div className="bg-[url('./src/assets/bgImage.svg')] bg-contain">
     <div className="min-h-screen"
       style={{
         backgroundImage: `url(${bg})`,
@@ -29,6 +28,3 @@ const App = () => {
 
 export default App
 
-// import bg from "./assets/bgImage.svg";
-
-// <div style={{ backgroundImage: `url(${bg})` }}></div>
