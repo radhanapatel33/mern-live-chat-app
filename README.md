@@ -16,12 +16,16 @@ https://mern-real-time-chat-app-cqxg.onrender.com
 - Database: MongoDB  
 - Authentication: JWT  
 - Real-time: Socket.io  
-- Cloud Storage: Cloudinary  
+- Cloud Storage: Cloudinary
+
+## 🔗 Project Repositories 
+- Frontend: https://github.com/radhanapatel33/mern-live-chat-app
+- Backend: https://github.com/radhanapatel33/mern-live-chat-app-backend
 
 ## ⚙️ Installation
 
 ```bash
-https://github.com/radhanapatel33/mern-live-chat-app.git
+git clone https://github.com/radhanapatel33/mern-live-chat-app.git
 cd mern-live-chat-app
 npm install
 npm start
