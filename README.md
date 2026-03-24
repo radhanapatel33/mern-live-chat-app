@@ -28,4 +28,4 @@ https://mern-real-time-chat-app-cqxg.onrender.com
 git clone https://github.com/radhanapatel33/mern-live-chat-app.git
 cd mern-live-chat-app
 npm install
-npm start
+npm run dev
